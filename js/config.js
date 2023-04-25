@@ -125,6 +125,9 @@ var config_json = {
             "21.jpg",
             "22.jpg",
             "23.jpg",
+            "24.jpg",
+            "25.jpg",
+            "26.jpg",
         ]
     },
     // 群友语录页面
