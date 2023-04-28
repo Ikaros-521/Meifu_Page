@@ -30,16 +30,25 @@ div#bg_div img {
 
 p#name {
     font-size: 40px;
+    text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+p#introduction {
+    margin: 10px;
+    color: #616161;
+    text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 p#introductionJP {
     margin: 10px;
     color: #616161;
+    text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 p#introductionCN {
     margin: 10px;
     color: #616161;
+    text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 #bottom {

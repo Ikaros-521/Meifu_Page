@@ -2,3 +2,7 @@ img {
     width: 300px;
     margin: 10%;
 }
+
+div#introduction {
+    margin-top: 10px;
+}

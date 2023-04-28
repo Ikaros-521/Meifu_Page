@@ -14,3 +14,7 @@ img {
     font-size: 18px;
     margin: 10px;
 }
+
+img#captain_img {
+    width: 50%;
+}

@@ -13,9 +13,9 @@ function language_change(language_val) {
 
     // 中 日 英，顶部导航栏的文字描述
     var arr = [
-        ["首页", "B站主页", "QQ群", "表情包", "特殊情报", "特典", "群友语录", "dd视频", "直播封面", "辅助程序", "关于", "Language"],
-        ["トップページ", "bilibili", "QQぐん", "表情パック", "じょうほう", "特典", "語録", "ddビデオ", "配信カバー枚", "ほじょプログラム", "について", "Language"],
-        ["HomePage", "bilibili", "QQ Group", "Emoticon", "Information", "Privilege", "GroupQuotations", "CaptainVideo", "LiveCover", "AuxiliaryProgram", "About", "Language"],
+        ["首页", "B站主页", "QQ群", "表情包", "特殊情报", "特典", "dd视频", "直播封面", "辅助程序", "关于", "Language"],
+        ["トップページ", "bilibili", "QQぐん", "スタンプです", "じょうほう", "特典", "ファンビデオ", "配信カバー枚", "ほじょプログラム", "について", "Language"],
+        ["HomePage", "bilibili", "QQ Group", "Emoticon", "Information", "Privilege", "CaptainVideo", "LiveCover", "AuxiliaryProgram", "About", "Language"],
     ];
 
     if(language_val == "ch") {

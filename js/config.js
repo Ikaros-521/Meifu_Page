@@ -26,9 +26,9 @@ var config_json = {
     // 关于页面
     "about": {
         // 可以嵌入html代码
-        "introductionCH": "基于LayUI开发~",
-        "introductionJP": "日文版",
-        "introductionEN": "英文版"
+        "introductionCH": "<p>基于LayUI开发，纯前端实现，可以直接部署在github上，本人也提供了开发模板，可以在本人github仓库查找，以上。~</p><br><p>开发者：Love丶伊卡洛斯</p>",
+        "introductionJP": "<p>LayUI開発に基づいて、純粋なフロントエンドが実現し、githubに直接配置することができ、本人も開発テンプレートを提供し、本人のgithub倉庫で探すことができ、以上。~</p><p><br><br/>開発者：Love丶伊卡洛斯</p>",
+        "introductionEN": "<p>Based on LayUI development and pure front-end implementation, it can be directly deployed on GitHub. I have also provided development templates that can be searched in my GitHub repository~</ p> Developer: Love, Icarus"
     },
     // dd视频 dd切片页
     "ddVideo": {
@@ -163,7 +163,7 @@ var config_json = {
                     {
                         "header": "直播内容",
                         // <br>是换行标签
-                        "body": "聊天、唱歌、打游戏（原神）等"
+                        "body": "聊天、唱歌、打游戏（原神、星穹铁道）等"
                     },
                     {
                         "header": "来地上的原因",
@@ -252,7 +252,7 @@ var config_json = {
     "liveCover": {
         "introduction": "直播封面 页面，img_num填写图片数量，图片必须存放在项目img/live_cover路径下且是png格式的图片（命名从1依次加1，倒排），不然无法识别。当然你也可以改源码为表情包页面的形式",
         // 这里的实现方式是for循环，所以只需要数字，如果命名不一样或者格式不一样，可以修改源码为 表情包的形式加载
-        "img_num": 2
+        "img_num": 8
     },
     // 特典页面
     "privilege": {
@@ -264,9 +264,9 @@ var config_json = {
     },
     // QQ群页面
     "qqGroup": {
-        "introductionCH": "<h1>粉丝群，梅芙本人也在哦~</h1>",
-        "introductionJP": "日文版",
-        "introductionEN": "英文版",
+        "introductionCH": "<h1>粉丝群，梅芙本人也在哦~</h1><h2>群号：662867938</h2>",
+        "introductionJP": "<h1>ファングループ、メイフ本人もいますよ~</h1><h2>グループ番号：662867938</h2>",
+        "introductionEN": "<h1>Fan group, meifu herself is also here~</h1><h2>group：662867938</h2>",
         "captain_img": "img/group/captain.png",
         "fans_img": "img/group/fans.png"
     }

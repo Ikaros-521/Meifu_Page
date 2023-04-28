@@ -7,7 +7,7 @@ window.onload = function() {
     //     "1.gif","2.gif","3.gif","4.gif","5.gif","6.gif",
     //     "1.png","2.png","3.png","4.png","5.png","6.png","7.png"];
 
-    var img_num = 2;
+    var img_num = config_json["liveCover"]["img_num"];;
 
     var cparent = document.getElementById("container");
     for (var i = img_num; i > 0; i--) {
@@ -18,7 +18,7 @@ window.onload = function() {
         boximg.className = "box_img";
         
         var img = document.createElement("img");
-        img.src = "img/live_cover/" + i + ".png";
+        img.src = "img/live_cover/" + i + ".jpg";
 
         boximg.appendChild(img);
         ccontent.appendChild(boximg);
