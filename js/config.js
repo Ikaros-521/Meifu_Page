@@ -20,6 +20,23 @@ var config_json = {
                 "name": "设定图",
                 "introduction": "中间的头メイフ🐺🎧🔥🔥🔥是主人格<br>左边的头メイル🐺💅✨负责帮忙直播和拍摄(幕后)<br>右边的头メイス🐺🦴基本上每天都在睡",
                 "bg_img": "img/设定图.png"
+            },
+            {
+                "name": "中",
+                "introduction": "中间的头メイフ🐺🎧🔥🔥🔥是主人格",
+                "bg_img": "img/center.jpg"
+            }
+            ,
+            {
+                "name": "左",
+                "introduction": "左边的头メイル🐺💅✨负责帮忙直播和拍摄(幕后)",
+                "bg_img": "img/left.jpg"
+            }
+            ,
+            {
+                "name": "右",
+                "introduction": "右边的头メイス🐺🦴基本上每天都在睡",
+                "bg_img": "img/right.jpg"
             }
         ]  
     },
