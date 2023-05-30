@@ -112,6 +112,12 @@ var config_json = {
             "7.gif",
             "8.gif",
             "9.gif",
+            "10.gif",
+            "11.gif",
+            "12.gif",
+            "13.gif",
+            "14.gif",
+            "15.gif",
             "1.png", 
             "2.png",
             "3.png",
@@ -125,6 +131,7 @@ var config_json = {
             "10.png",
             "11.png",
             "12.png",
+            "13.png",
             "1.jpg",
             "2.jpg",
             "3.jpg",
@@ -151,6 +158,7 @@ var config_json = {
             "24.jpg",
             "25.jpg",
             "26.jpg",
+            "27.jpg",
         ]
     },
     // 群友语录页面
