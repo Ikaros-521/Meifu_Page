@@ -160,6 +160,8 @@ var config_json = {
             "26.jpg",
             "27.jpg",
             "28.jpg",
+            "29.jpg",
+            "30.jpg",
         ]
     },
     // 群友语录页面
